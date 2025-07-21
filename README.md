@@ -4,8 +4,6 @@ This project is a *UI/UX prototype* of a conceptual food delivery application na
 
 ---
 
-##  App Screens Overview (Correct Sequence)
-
 ###  Welcome & Login Screen
 - *Pictorial intro* with a dining table and chairs illustration
 - Promo: 100% OFF WITH CODE NIKI4

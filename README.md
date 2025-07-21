@@ -28,7 +28,7 @@ The application allows users to:
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 -  *Figma* – for designing user interfaces and prototyping
 -  *YouCut* – for screen recording and UI video creation

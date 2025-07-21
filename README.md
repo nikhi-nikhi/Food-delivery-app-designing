@@ -1,79 +1,62 @@
-#  Just Eat – Food Delivery App (UI/UX Design)
+#  Just Eat – Food Delivery App 
 
-This project is a *UI/UX prototype* of a conceptual food delivery application named *Just Eat, designed by me as part of a hands-on learning experience during a **UI/UX internship session. I used the knowledge gained to independently design an end-to-end app flow using tools like **Figma* and *YouCut*.
-
----
-
-###  Welcome & Login Screen
-- *Pictorial intro* with a dining table and chairs illustration
-- Promo: 100% OFF WITH CODE NIKI4
-- Sign-up/Login options:
-  - Google
-  - Facebook
-  - Email
-  - Phone Number
+*Just Eat* is a modern, minimalistic food delivery app UI designed to deliver a seamless and intuitive user experience. The project simulates a real-world application, covering user onboarding, food discovery, order customization, and checkout flows — crafted entirely using *Figma* as part of my UI/UX design learning experience.
 
 ---
 
-###  Home Screen
-- Greeting: Nikhitha
-- Search Bar: "Search your food"
-- Categories:
-  - Biriyani 
-  - Pizza 
-  - Cool Drinks 
-- Popular section:
-  - *Primavera Pizza*
-  - Rating:  4.9
-  - Weight: 500gm
+##  Project Overview
+
+This design was conceptualized and developed independently after attending a practical UI/UX internship session. The goal was to build an interactive and visually appealing prototype that emphasizes usability, accessibility, and aesthetic simplicity.
+
+The application allows users to:
+- Discover food categories
+- View popular dishes
+- Select and customize meals
+- Place orders and receive confirmation
 
 ---
 
-###  Food Listings Screen
-- Displays a list of food items and their vendors:
-  - Ghee Dosa – Geetha Canteen
-  - Pizza – King’s
-  - Cool Drinks – Frozen
-  - Biriyani – Azar Hotel
-  - Burger – Burger King
-  - Fried Rice – SK Restaurant
-  - Parotta – Malabar Hotel
+##  Features
+
+-  *Promotional Welcome Screen* with discount code
+-  *Multi-Option Sign-up/Login* (Google, Facebook, Email, Phone)
+-  *Search Functionality* for food items
+-  *Categorized Food Listing* (Biriyani, Pizza, Drinks, etc.)
+-  *Popular Items Section* with ratings and visuals
+-  *Detailed Product View* (ingredients, price, size, delivery time)
+-  *Order Confirmation Screen* with success feedback
 
 ---
 
-###  Product Detail Page – Primavera Pizza
-- Price: *Rs. 99*
-- Size: *Medium 12”*
-- Crust: *Thin Crust*
-- Delivery Time: *20 mins*
-- Ingredients shown as icons:
-  - Tomato, Cheese, Garlic, Onion, Mushroom, Chicken
-- Button: *Place this order*
+## 🛠️ Tools & Technologies
+
+-  *Figma* – for designing user interfaces and prototyping
+-  *YouCut* – for screen recording and UI video creation
+-  Design Principles Used:
+  - Visual hierarchy
+  - Spacing and alignment
+  - Minimalistic color palette
+  - UX flow consistency
 
 ---
 
-###  Order Confirmation
-- Large green check mark 
-- Text: *"Your food is ordered"*
+##  Demo Preview
+
+###  UI Walkthrough Video
+Watch the App Demo 
+
+### Video Preview
+
+1. *Welcome Screen* – Offers sign-up/login and promo code  
+2. *Home Screen* – Search, categories, and featured items  
+3. *Food List* – Displays various items with restaurant names  
+4. *Product Detail* – Primavera Pizza with ingredients and CTA  
+5. *Order Confirmation* – Visual feedback after placing order
 
 ---
 
-##  Tools Used
-- *Figma* – For UI design and prototyping  
-- *YouCut* – For screen recording and UI walkthrough video creation  
+##  Credits
 
----
-
-##  Key Learnings
-- Built an entire food delivery UI from scratch
-- Applied real-world UX principles: flow, navigation, simplicity
-- Gained experience in design consistency, component usage, and interaction mapping
-
----
-
-##  Project Status
-- UI/UX design completed  
-- Prototype only (no backend or functional frontend)  
-- Open for future development or integration
-
----
+Designed and developed by  
+*Nikhitha S*  
+ Enthusiast designer
